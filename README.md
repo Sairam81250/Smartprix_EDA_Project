@@ -1,1 +1,2 @@
 # Smartprix_EDA_Project
+This GitHub repository houses an Exploratory Data Analysis (EDA) project conducted on the cleaned data from Smartprix, a prominent website where users can compare various mobile devices to make informed purchasing decisions. The primary objective of this project is to uncover valuable insights, trends, and patterns within the Smartprix data, helping users make informed decisions when choosing mobile devices.
